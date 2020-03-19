@@ -1,10 +1,10 @@
 <?php
 
-namespace Pion\Laravel\ChunkUpload\Handler\Traits;
+namespace Paulm17\Laravel\ChunkUpload\Handler\Traits;
 
-use Pion\Laravel\ChunkUpload\Exceptions\ChunkSaveException;
-use Pion\Laravel\ChunkUpload\Save\ParallelSave;
-use Pion\Laravel\ChunkUpload\Storage\ChunkStorage;
+use Paulm17\Laravel\ChunkUpload\Exceptions\ChunkSaveException;
+use Paulm17\Laravel\ChunkUpload\Save\ParallelSave;
+use Paulm17\Laravel\ChunkUpload\Storage\ChunkStorage;
 
 trait HandleParallelUploadTrait
 {

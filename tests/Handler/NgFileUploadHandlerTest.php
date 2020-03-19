@@ -5,9 +5,9 @@ namespace ChunkTests\Handler;
 use Illuminate\Http\Request;
 use Illuminate\Http\UploadedFile;
 use PHPUnit\Framework\TestCase;
-use Pion\Laravel\ChunkUpload\Config\FileConfig;
-use Pion\Laravel\ChunkUpload\Exceptions\ChunkInvalidValueException;
-use Pion\Laravel\ChunkUpload\Handler\NgFileUploadHandler;
+use paulm17\Laravel\ChunkUpload\Config\FileConfig;
+use paulm17\Laravel\ChunkUpload\Exceptions\ChunkInvalidValueException;
+use paulm17\Laravel\ChunkUpload\Handler\NgFileUploadHandler;
 
 class NgFileUploadHandlerTest extends TestCase
 {

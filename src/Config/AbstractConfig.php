@@ -1,6 +1,6 @@
 <?php
 
-namespace Pion\Laravel\ChunkUpload\Config;
+namespace Paulm17\Laravel\ChunkUpload\Config;
 
 abstract class AbstractConfig
 {

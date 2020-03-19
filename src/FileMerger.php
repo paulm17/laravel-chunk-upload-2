@@ -1,8 +1,8 @@
 <?php
 
-namespace Pion\Laravel\ChunkUpload;
+namespace Paulm17\Laravel\ChunkUpload;
 
-use Pion\Laravel\ChunkUpload\Exceptions\ChunkSaveException;
+use Paulm17\Laravel\ChunkUpload\Exceptions\ChunkSaveException;
 
 class FileMerger
 {
